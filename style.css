@@ -60,15 +60,15 @@
 
 
 @media screen and (max-width: 600px) {
-       #welcome-section {
-           height: 300px;
-       }
+    #welcome-section {
+        height: 300px;
+    }
 
-       .content {
-           padding-top: 150px;
-       }
+    .content {
+        padding-top: 150px;
+    }
 
-       #contact {
-           height: auto;
-       }
+    #contact {
+        height: auto;
+    }
 }
